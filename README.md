@@ -30,7 +30,7 @@ export default function Home() {
   const cardRef = useRef(null);
 
   return (
-    <div className="w-full h-screen flex flex-col gap-10 justify-center items-center">
+    <div className="w-full h-screen flex flex-col justify-center items-center">
 
       <Card ref={cardRef} />
 
