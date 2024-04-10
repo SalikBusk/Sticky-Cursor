@@ -14,6 +14,12 @@ Start med projektet ved at oprette en Next.js-applikation. Vi kan gøre det ved 
 
 `npm i framer-motion`
 
+[Ui shadcn](https://ui.shadcn.com/)
+
+`npx shadcn-ui@latest init`
+
+`npx shadcn-ui@latest add button`
+
 
 
 ## Page.tsx (src/app/page.tsx)
